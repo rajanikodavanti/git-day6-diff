@@ -1,6 +1,6 @@
+# Program to print list of days
 
-print("git diff test")
-print("git diff test lie 6")
-print("git diff test lie 7")
-print("git diff test lie 8")
+# list of days
+days_list = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
+print(days_list)
 
